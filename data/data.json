@@ -3,7 +3,7 @@
   "title": "Research Scientist",
   "current_loc": "Delaware, USA",
   "email": "fake@gmail.com",
-  "phone": "+1111111111",
+  "phone": "+1111111112",
   "linkedin": "https://prempritam.vercel.app/about",
   "homepage_quote": "If you’re gonna design cities,<br></br><b>let’s do it right!</b>",
   "homepage_about": "I'm <b>Prem Pritam</b>, a Scientist specialized in Environmental & Climate Studies based in Delaware, USA. I believe that thoughtfully designed spaces have the power to transform communities, shaping not just the built environment but the lives of people who inhabit it. My work spans sustainable planning, housing, and public space design—always with a focus on resilience, inclusivity, and lasting impact.",
@@ -52,14 +52,6 @@
     {
       "name": "Sed Do",
       "level": 88
-    },
-    {
-      "name": "Eiusmod",
-      "level": 82
-    },
-    {
-      "name": "Tempor",
-      "level": 78
     }
   ],
   "experience": [
@@ -68,12 +60,6 @@
       "role": "Dolor Sit Amet",
       "duration": "Jan 2020 - Present",
       "place": "Lorem, USA"
-    },
-    {
-      "company": "Dolor Consulting",
-      "role": "Consectetur Specialist",
-      "duration": "Mar 2019 - Dec 2019",
-      "place": "Ipsum, USA"
     },
     {
       "company": "Amet University",
@@ -106,6 +92,12 @@
       "degree": "Bachelor of Consectetur",
       "duration": "May 2016",
       "place": "Ipsum, India"
+    },
+    {
+      "school": "Institute",
+      "degree": "Institute",
+      "duration": "May 2010",
+      "place": "Chennai, India"
     }
   ],
   "achievements": [
